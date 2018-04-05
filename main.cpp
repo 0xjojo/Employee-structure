@@ -18,7 +18,7 @@ int main()
     employee emp3 ;
 
     cout << "Enter first employee number:\n " ;//prompt user to enter the user's number
-    cin >> emp1.emp_num ;
+    cin >> emp1.emp_num ;//Hello world
     cout << "Enter first employee’s compensation:\n " ;
     cin >> emp1.emp_com ;
     cout << "Enter secound employee number: \n" ;
